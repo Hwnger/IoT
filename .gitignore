@@ -1,29 +1,4 @@
-
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-env/
-
-# Environment variables and secrets
+.venv
 .env
-.env.*
-!.env.example
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary files and logs
-*.log
-*.tmp
-
-# Local data and exports
-data/
-exports/
-*.csv
-
-# OS files
-.DS_Store
-Thumbs.db
+*.pyc
+.vscode
